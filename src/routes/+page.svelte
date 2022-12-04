@@ -12,7 +12,11 @@
 </script>
 
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+Type into the textboxes and hit enter
+
+<hr />
+<br />
 
 This one works: <SimpleForm />
 
